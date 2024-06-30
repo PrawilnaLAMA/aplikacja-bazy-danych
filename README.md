@@ -1,6 +1,6 @@
 # Instrukcja dla domokrążcy
 
-## Korzystanie z programu
+## Korzystanie z programu Zapisz
 ### Podaj ID domokrazcy:
 Po uruchomieniu programu zostaniesz poproszony o wprowadzenie identyfikatora domokrazcy. Wpisz odpowiednie ID i naciśnij Enter.
 
@@ -25,3 +25,17 @@ Po wprowadzeniu danych zostaniesz zapytany, czy chcesz zakończyć wprowadzanie 
 
 ### Zakończenie i eksport do CSV:
 Po zakończeniu wprowadzania danych, wszystkie zapisane rekordy zostaną wyeksportowane do pliku zebrane_dane.csv. Program wyświetli również wszystkie rekordy na ekranie.
+
+## Korzystanie z programu Wyslij
+
+### Uruchamianie pliku
+Uruchomienie pliku wyśle wszystkie rekordy do zdalnej bazy danych. Sprawdź czy nie wyskoczył ci błąd, który sugeruje, że źle wpisałeś adres.
+
+# Instrukcja dla analityka
+
+## Korzystanie z programu Raporty
+
+### Uruchamianie pliku
+Uruchomienie pliku spowoduje narysowanie wykresu, który obrazuje ilość spisanych liczników przez każdego domokrążce.
+
+W przyszłości planujemy dodać więcej możliwości tworzenia wykresów.
