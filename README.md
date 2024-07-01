@@ -39,3 +39,12 @@ Uruchomienie pliku wyśle wszystkie rekordy do zdalnej bazy danych. Sprawdź czy
 Uruchomienie pliku spowoduje narysowanie wykresu, który obrazuje ilość spisanych liczników przez każdego domokrążce.
 
 W przyszłości planujemy dodać więcej możliwości tworzenia wykresów.
+
+# Instrukcja dla admina
+
+## Korzystanie z programu 
+
+### Użycie programu
+Uruchom program.
+Podaj imię i nazwisko klienta, którego dane chcesz wyszukać, gdy program o to poprosi.
+Program wyświetli tabelę z danymi klienta, w tym informacje o adresie, zużyciu energii oraz historii licznika.  
